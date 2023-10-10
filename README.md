@@ -11,3 +11,5 @@
 - **Gerenciamento de Pagamento**: Seção dedicada para gerenciar métodos de pagamento.
   
 - **Notificações**: Atualizações dos cursos e de novos lançamentos.
+
+![image](https://github.com/th38amorim/AmorimSmart_E-learning/assets/60948509/8095c93d-e26c-4d48-960b-bd8fed301998)
