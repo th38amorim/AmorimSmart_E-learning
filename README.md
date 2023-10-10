@@ -1,7 +1,4 @@
 <h1 align="center">AmorimSmart E-learning App 🎓</h1>
-<h3 align="center">Construído com Flutter</h3>
-
-🌟 **Características Principais**:
 
 - **Cursos Diversificados**: Navegação por uma variedade de cursos, categorizados para uma pesquisa fácil.
   
