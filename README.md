@@ -1,8 +1,6 @@
 <h1 align="center">AmorimSmart E-learning App 🎓</h1>
 <h3 align="center">Construído com Flutter</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=seu_usuario_github&label=Profile%20views&color=0e75b6&style=flat" alt="seu_usuario_github" /> </p>
-
 🌟 **Características Principais**:
 
 - **Cursos Diversificados**: Navegação por uma variedade de cursos, categorizados para uma pesquisa fácil.
