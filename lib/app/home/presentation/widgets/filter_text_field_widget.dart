@@ -18,6 +18,7 @@ class FilterTextFieldWidget extends StatelessWidget {
             child: Padding(
               padding: const EdgeInsets.symmetric(horizontal: 15),
               child: TextField(
+                textCapitalization: TextCapitalization.words,
                 decoration: InputDecoration(
                   hintText: 'Search',
                   hintStyle: Theme.of(context).textTheme.titleMedium!.copyWith(
