@@ -1,4 +1,4 @@
-import 'package:amorim_smart_elearning/app/home/presentation/home_page.dart';
+import 'package:amorim_smart_elearning/app/main_page/main_page.dart';
 import 'package:flutter_modular/flutter_modular.dart';
 
 class AppModule extends Module {
@@ -7,7 +7,7 @@ class AppModule extends Module {
 
   @override
   void routes(r) {
-    r.child('/', child: (context) => const HomePage());
+    r.child('/', child: (context) => const MainPage());
     // r.module('/b-module', module: BModule());
   }
 }

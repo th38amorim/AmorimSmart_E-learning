@@ -35,7 +35,7 @@ class CustomBottomNavItemWidget extends StatelessWidget {
           ),
           if (isSelected && label.isNotEmpty)
             Padding(
-              padding: const EdgeInsets.only(left: 8),
+              padding: const EdgeInsets.only(left: 5, right: 3),
               child: Text(
                 label,
                 style: const TextStyle(color: Colors.white),
