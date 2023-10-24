@@ -1,4 +1,4 @@
-<h1 align="center">AmorimSmart E-learning App 🎓</h1>
+<h1 align="center">AmorimSmart E-learning App 🎓 (em desenvolvimento)</h1>
 
 - **Cursos Diversificados**: Navegação por uma variedade de cursos, categorizados para uma pesquisa fácil.
   
