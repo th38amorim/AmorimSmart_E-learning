@@ -12,4 +12,4 @@
   
 - **Notificações**: Atualizações dos cursos e de novos lançamentos.
 
-![image](https://github.com/th38amorim/AmorimSmart_E-learning/assets/60948509/8095c93d-e26c-4d48-960b-bd8fed301998)
+![image](https://github.com/th38amorim/AmorimSmart_E-learning/assets/60948509/4f9d0927-f2eb-49cc-8fca-33c2c0eb23a7)
